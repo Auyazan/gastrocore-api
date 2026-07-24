@@ -2,13 +2,13 @@
 
 > REST API profesional para la gestión integral de restaurantes.
 
-##  Descripción
+## Descripción
 
 GastroCore API es un proyecto desarrollado con fines educativos para simular una aplicación real utilizada en la administración de restaurantes.
 
 El objetivo es aplicar buenas prácticas de desarrollo backend utilizando TypeScript, Express y PostgreSQL.
 
-##  Tecnologías
+## Tecnologías
 
 - Node.js
 - Express
@@ -20,11 +20,11 @@ El objetivo es aplicar buenas prácticas de desarrollo backend utilizando TypeSc
 - Swagger
 - Jest
 
-##  Estado del proyecto
+## Estado del proyecto
 
- En desarrollo.
+En desarrollo.
 
-##  Roadmap
+## Roadmap
 
 - [x] Planeación
 - [ ] Configuración inicial
@@ -36,6 +36,6 @@ El objetivo es aplicar buenas prácticas de desarrollo backend utilizando TypeSc
 - [ ] Testing
 - [ ] Deploy
 
-##  Autor
+## Autor
 
 Andrés Camilo Uyazan
